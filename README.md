@@ -14,12 +14,9 @@ eer_diagram.png – Extended Entity-Relationship (EER) diagram
 
 report.md – project write-up
 
-How to Use
 
-Clone this repository:
 
-git clone https://github.com/yourusername/grocery-database.git
-cd grocery-database
+
 
 
 Create the database schema:
